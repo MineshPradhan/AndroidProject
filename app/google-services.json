@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "608308122932",
+    "firebase_url": "https://chatapp-androidlab-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-androidlab",
+    "storage_bucket": "chatapp-androidlab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608308122932:android:8094606306eec0e9204161",
+        "android_client_info": {
+          "package_name": "com.example.androidproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608308122932-pgreppt1iabb5ab6j9rnfq9mckc31pch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTKyN3ph5RlxRVKywHefRrP48DqPrbPrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608308122932-pgreppt1iabb5ab6j9rnfq9mckc31pch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
